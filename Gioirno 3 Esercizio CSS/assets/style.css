@@ -1,0 +1,21 @@
+body{text-align: center;}
+    header img {width: 150px;}
+    header nav {
+        background-color: rgb(255, 255, 226); 
+        padding: 0.1em;
+        border-top: 1px solid rgb(223, 182, 0);
+    }
+   article {
+    width: 50%; 
+    margin:auto;
+    text-align: left;
+}
+#Autore {text-align: center; color: gray; margin-top: 0.5em;
+}
+article img 
+
+
+
+   
+   
+
