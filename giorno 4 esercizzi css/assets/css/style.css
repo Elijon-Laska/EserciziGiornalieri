@@ -1,0 +1,30 @@
+html{
+  font-size: 62,5%;
+}
+body {
+  font-family: "Poppins", serif;
+  font-size: 1.5rem;
+  padding: 2rem;
+  background-image: url(../img/sfondo.png);
+}
+header {
+  text-align: center; background-color: rgb(5, 109, 109);
+  padding: 2rem;
+  color: white;
+}
+div img {
+  margin-bottom: 1rem;
+}
+header nav ul {
+  margin-top: 1rem;
+}
+header nav ul a {
+  
+}
+
+
+
+
+
+
+
